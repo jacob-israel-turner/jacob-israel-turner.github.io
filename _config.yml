@@ -13,11 +13,11 @@ email: j.israel.turner@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image.jpg"
 
 name: 'Jacob Turner'
 author: 'Jacob Turner'
-author_image: "/assets/images/author.jpg"
+author_image: "http://1.gravatar.com/avatar/844c9c12b7678cb977fa68b6d0d27107"
 
 paginate:	5
 
