@@ -4,7 +4,6 @@ title:  "CodeCardio Tutorial"
 date:   2015-05-05 09:51:25
 categories: javascript tutorial codecardio
 tags: featured
-image: http://i1383.photobucket.com/albums/ah307/JIsraelTurner/Selection_027_zpsorz5d27i.png 
 ---
 
 # CodeCardio-Tutorial
