@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "CodeCardio Tutorial"
+title:  "Introduction to CodeCardio"
 date:   2015-05-05 09:51:25
 categories: javascript tutorial codecardio
 tags: featured
 ---
 
-# CodeCardio-Tutorial
+# CodeCardio
 
 In this tutorial, I'm going to talk about the basics of using [CodeCardio](codecard.io). CodeCardio was created by [DevMountain](devmounta.in) staff for use with our [Web-Dev bootcamp](https://devmounta.in/web-immersive).
 
